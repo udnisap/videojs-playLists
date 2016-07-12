@@ -64,7 +64,7 @@ VideoJS receives a `prev()` function which put in place the previous video.
   <tr><td>lastVideoEnded</td><td>Fired when the playlist has finished.</td></tr>
 </table>
 
-A [demo](http://belelros.github.io/videojs-playLists/) is now available to showcase what you can create with this plugin.
+A [demo](http://jgallen23.github.io/videojs-playLists/) is now available to showcase what you can create with this plugin.
 
 ##Pending
 
